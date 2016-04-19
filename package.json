@@ -1,0 +1,13 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Project-JQuery",
+  "main": "slider.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "MySelf",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
